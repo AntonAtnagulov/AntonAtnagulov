@@ -1,15 +1,21 @@
 # Hello World!
-![](https://komarev.com/ghpvc/?username=arturohanyan1)
-### My name is Artur. I am a frontend developer.
+
+![](https://komarev.com/ghpvc/?username=antonatnagulov)
+
+### My name is Anton. I am a frontend developer.
 ***
+
 ### My Contacts
 <div id="badges">
   <a href="https://t.me/antonatnagulov">
     <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" alt="Telegram Badge"/>
   </a>
 </div>
+
 ***
+
 ### My Tech Stack
+
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -26,17 +32,22 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ...
+
 <details>
 <summary>More Skills:</summary>
+
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
+
 ***
+
 ### Statistics
+
 <details>
-  <summary>:высокое_напряжение: GitHub Stats:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true&theme=radical"/>
+  <summary>:zap: GitHub Stats:</summary>
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=antonatnagulov&show_icons=true&theme=radical"/>
 </details>
