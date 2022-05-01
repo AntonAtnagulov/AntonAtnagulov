@@ -38,15 +38,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-...
+![Material-UI](https://img.shields.io/badge/-MUI-000?&logo=MUI)
+![Ant Design](https://img.shields.io/badge/-AntDesign-000?&logo=AntDesign)
+
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-...
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?&logo=Socket.IO)
+![REST API](https://img.shields.io/badge/-REST-000?&logo=REST)
+
 #### Database
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-...
+
 
 <details>
 <summary>More Skills:</summary>
