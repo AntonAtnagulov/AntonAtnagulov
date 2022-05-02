@@ -7,7 +7,7 @@
 ### My Contacts
 <div id="badges">
   <a href="https://t.me/antonatnagulov">
-    <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" alt="Telegram Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="400px"/>
   </a>
 </div>
 
