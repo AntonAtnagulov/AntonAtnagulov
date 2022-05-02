@@ -1,7 +1,8 @@
 ### Hi! I'm Anton. I am a frontend developer. 
-***
 
 ![](https://komarev.com/ghpvc/?username=antonatnagulov)
+
+***
 
 ### My Contacts
 <div id="badges">
