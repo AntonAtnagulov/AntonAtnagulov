@@ -3,62 +3,37 @@
 ![](https://komarev.com/ghpvc/?username=antonatnagulov)
 
 ### My name is Anton. I am a frontend developer.
-
----
-
-### My Contacts
-
 <div id="badges">
   <a href="https://t.me/antonatnagulov">
-    <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" alt="Telegram Badge"/>
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Badge" width='70px'/>
   </a>
 </div>
+
+### My projects
 
 ---
-
-<div>
-  <h3>My projects</h3>
-</div>
-
-<div style='display: flex; flex-wrap: wrap'>
-
-<div style='width: 450px; position: relative'>
-  <a href="https://ibb.co/H2vDCZJ" >
-   <img src="https://i.ibb.co/g71MdYn/Construct1.jpg" alt="Construct1" border="0" width='450px' />
+##### Three.js / 3d model constructor
+  <a href="https://antonatnagulov.github.io/3d-models-constructor/" >
+   <img src="https://i.ibb.co/g71MdYn/Construct1.jpg" alt="img" border="0" width='600px' />
   </a>
-  <div style='position: absolute; bottom: 10px; left: 0px; width: 50%; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
-    <p style='color: #F7F6E4; text-align: center'>3d model constructor</p>
-  </div>
-</div>
 
-<div style='width: 450px; position: relative'>
-  <a href="https://ibb.co/H2vDCZJ">
-    <img src="https://i.ibb.co/RCJCBbs/Frog1.jpg" alt="Construct1" border="0" width='450px'/>
+---
+##### Three.js / 3d isometric game
+  <a href="https://antonatnagulov.github.io/frogger-react/">
+    <img src="https://i.ibb.co/RCJCBbs/Frog1.jpg" alt="img" border="0" width='600px'/>
   </a>
-  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
-    <p style='color: #F7F6E4; text-align: center'>Three.js 3d game</p>
-  </div>
-</div>
 
-<div style='width: 450px; position: relative'>
-  <a href="https://ibb.co/H2vDCZJ">
-   <img src="https://i.ibb.co/FbrD40c/guns1.jpg" alt="Construct1" border="0" width='450px'/>
+---
+##### React Three Fiber / 3d landing page
+  <a href="https://antonatnagulov.github.io/rtf-models-landing/">
+   <img src="https://i.ibb.co/FbrD40c/guns1.jpg" alt="img" border="0" width='600px'/>
   </a>
-  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
-    <p style='color: #F7F6E4; text-align: center'>React Three Fiber landing</p>
-  </div>
-</div>
 
-<div style='width: 450px; position: relative'>
-  <a href="https://ibb.co/H2vDCZJ">
-    <img src="https://i.ibb.co/CvLmZ60/dungeon.jpg" alt="Construct1" border="0" width='450px'/>
+---
+##### React JS, Socket IO / Map builder with videochat for Role-Playing games
+  <a href="https://dnd-deploy.herokuapp.com/">
+    <img src="https://i.ibb.co/CvLmZ60/dungeon.jpg" alt="img" border="0" width='600px'/>
   </a>
-  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
-    <p style='color: #F7F6E4; text-align: center'>Map builder for D&D</p>
-  </div>
-</div>
-
-</div>
 
 ---
 
