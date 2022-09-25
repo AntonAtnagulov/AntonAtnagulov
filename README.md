@@ -1,19 +1,68 @@
-### Hi! I'm Anton. I am a frontend developer. 
+# Hello World!
 
 ![](https://komarev.com/ghpvc/?username=antonatnagulov)
 
-***
+### My name is Anton. I am a frontend developer.
+
+---
 
 ### My Contacts
+
 <div id="badges">
   <a href="https://t.me/antonatnagulov">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="50px"/>
+    <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" alt="Telegram Badge"/>
   </a>
 </div>
 
-***
+---
 
-## My Tech Stack
+<div>
+  <h3>My projects</h3>
+</div>
+
+<div style='display: flex; flex-wrap: wrap'>
+
+<div style='width: 450px; position: relative'>
+  <a href="https://ibb.co/H2vDCZJ" >
+   <img src="https://i.ibb.co/g71MdYn/Construct1.jpg" alt="Construct1" border="0" width='450px' />
+  </a>
+  <div style='position: absolute; bottom: 10px; left: 0px; width: 50%; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
+    <p style='color: #F7F6E4; text-align: center'>3d model constructor</p>
+  </div>
+</div>
+
+<div style='width: 450px; position: relative'>
+  <a href="https://ibb.co/H2vDCZJ">
+    <img src="https://i.ibb.co/RCJCBbs/Frog1.jpg" alt="Construct1" border="0" width='450px'/>
+  </a>
+  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
+    <p style='color: #F7F6E4; text-align: center'>Three.js 3d game</p>
+  </div>
+</div>
+
+<div style='width: 450px; position: relative'>
+  <a href="https://ibb.co/H2vDCZJ">
+   <img src="https://i.ibb.co/FbrD40c/guns1.jpg" alt="Construct1" border="0" width='450px'/>
+  </a>
+  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
+    <p style='color: #F7F6E4; text-align: center'>React Three Fiber landing</p>
+  </div>
+</div>
+
+<div style='width: 450px; position: relative'>
+  <a href="https://ibb.co/H2vDCZJ">
+    <img src="https://i.ibb.co/CvLmZ60/dungeon.jpg" alt="Construct1" border="0" width='450px'/>
+  </a>
+  <div style='position: absolute; bottom: 10px; left: 0px; width: 200px; height: 30px; background-color: #1174DC; border-radius: 0px 5px 5px 0px'>
+    <p style='color: #F7F6E4; text-align: center'>Map builder for D&D</p>
+  </div>
+</div>
+
+</div>
+
+---
+
+## My tech stack
 
 <div id="stackBox">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -31,41 +80,22 @@
 </div>
 
 #### Frontend
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-MUI-000?&logo=MUI)
-![Ant Design](https://img.shields.io/badge/-AntDesign-000?&logo=AntDesign)
+...
 
 #### Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?&logo=Socket.IO)
-![REST API](https://img.shields.io/badge/-REST-000?&logo=REST)
+...
 
 #### Database
+
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-
-
-<details>
-<summary>More Skills:</summary>
-
-![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
-![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
-...
-</details>
-
-***
-
-### Statistics
-
-<details>
-  <summary>:zap: GitHub Stats:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=antonatnagulov&show_icons=true&theme=radical"/>
-</details>
